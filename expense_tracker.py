@@ -151,3 +151,4 @@ class ExpenseTracker:
 
     def load_data_gui(self):
         if self.load_data():
+            messagebox.# Expense Tracker — полный проект
